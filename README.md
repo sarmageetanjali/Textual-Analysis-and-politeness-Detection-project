@@ -1,4 +1,4 @@
 # Textual-Analysis-and-politeness-Detection-project
 Codes- Codes.R
-Dataset- Speech.csv
+Dataset- speech.csv
 Plots- image files
